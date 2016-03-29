@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[GoldenRural]]></title>
         <description><![CDATA[GoldenRural]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goldenrural/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 12:36:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 12:37:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goldenrural/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/846de253-0be9-45d7-b902-0d70efea95b5.png">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/846de253-0be9-45d7-b902-0d70efea95b5.png</link>
             <guid isPermaLink="false">a4b98e19-24a2-4a16-8156-602481b07017</guid>
+            <pubDate>Tue, 29 Mar 2016 12:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Always back up your hard drives. ]]></title>
+            <description><![CDATA[<article><h1>Always back up your hard drives. </h1><p>Always back up your hard drives.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39bb69f9-33ee-4e32-ad6c-be63bd4ea176.png"></article>]]></description>
+            <link>https://thegrid.ai/goldenrural/always-back-up-your-hard-drives/index.html</link>
+            <guid isPermaLink="false">37b9d32e-9502-44ff-8130-d26c21d1ed7a</guid>
             <pubDate>Tue, 29 Mar 2016 12:36:45 GMT</pubDate>
         </item>
     </channel>
